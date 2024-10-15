@@ -94,3 +94,41 @@ puts false && this_will_not_cause_an_error  # false
 # puts true or this_will_not_cause_an_error   # true
 puts true || this_will_not_cause_an_error   # true
 puts true | false                           # true
+
+# Bruce wants me to do some self study:
+
+# substitute a part of a string
+puts 'hello'.tr('el', 'ip')                 # hippo
+# more found here: https://rubyapi.org/3.3/o/string#method-i-sub
+
+# range stuff
+puts (1..5).to_a
+
+# print my name 10 times
+10.times {|i| puts "#{i + 1}: roe"}
+
+# find the index of something in a string
+string = 'hello world! ruby is fun :D'
+
+puts string.index('!')       # 11
+puts string.index('ruby')    # 13
+
+# file stuff
+puts File.size('day_one.rb') # 3225 (in bytes)
+
+# random number guessing game
+
+def rand_num_game
+  number = rand(10)
+  puts "Guess a number from 0 and 9"
+  guess = gets.chomp.to_i
+  if guess < number
+    puts "Too low."
+  elsif guess > number
+    puts "Too high."
+  else
+    puts "You got it!"
+  end
+end
+
+rand_num_game
