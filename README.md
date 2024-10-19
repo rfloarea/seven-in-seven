@@ -34,3 +34,10 @@ Much further along in the intro, Bruce hands us a warning and some guidance all 
 > If you simply read this book, you'll experience the flavor of the syntax and no more. If you look online for the answers before trying to code the exercises yourself, you'll fail. You will want to try the exercises first, fully recognize that you;ll fail at a few of them. Learning syntax is always easier than learning to reason.
 
 Beyond that, his final motivational stance is this: have fun. Which I find both truthful and quaint.
+
+## How things are going
+
+2024-10-18
+I'm working my way through Ruby. Love the language so far. I'm just starting to decode how this book works. I want to make sure that I'm always taking the time to consider _why_ Bruce is showing me certain aspects of the language. Because more than anything, my learning goal for this book is not to learn the languages (although getting an intro to several languages is motivating), it's to learn how to learn programming languages. Put another way, my task isn't to learn seven languages. My goal is to learn how I learn programming languaegs best, to develop my personal method for learning programming languages.
+
+I expect that this is a long term goal. I expect that this book is merely a spark on that journey. But it feels important to me.
