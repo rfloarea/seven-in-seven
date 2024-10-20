@@ -42,3 +42,8 @@ Yup, I'm feeling the magic. Especially when I hit the little random number game.
 I'm looking at some professional Ruby code and dam, this stuff is beautiful. The sparseness and legibility really speaks to me. I feel that I _want_ to code because of it. Not that I don't want to in other languages. But I can't deny a special draw from Ruby. I want to learn her secrets :D
 
 As an example, here is a gem for [working with Webmentions](https://github.com/indieweb/webmention-client-ruby). I find myself wanting to sit down and just read this code.
+
+2024-10-19
+Modules and classes are starting to be a bit less opaque. But all the pieces have not shown themselves to me, not to mention putting them all together. I suppose this is what Bruce wants me to be able to work through: how do all the pieces of a language come together to form a useful, coherent whole?
+
+I realized that my perspective was shifting after landing on the [module Enumerable](https://ruby-doc.org/3.3.5/Enumerable.html#module-Enumerable-label-What-27s+Here) page and the [class Hash](https://ruby-doc.org/3.3.5/Hash.html) page in the docs. I can feel that there is something in my mind working to try and understand how these things work together. I just have to find the right information to clarify things. And to play around with Ruby enough to develop enough intuition.
