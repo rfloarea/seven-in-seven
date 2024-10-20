@@ -14,20 +14,31 @@ I want to understand what programming is all about. Not just understand, but _fe
 
 ## From the Introduction
 
-Bruce outlines several questions that I will find the answers to as I progress through this book:
+Bruce outlines several questions that I will find out about as I progress through this book. Let's call them the Five Core Questions
 
-- What is the typing model?
-  - Strong, weak, static, dynamic?
-  - I'm told the typing model with "shape the way you attack a problem and control the way the language works.
-- What is the programming model?
-  - Object-oriented, functional, procedural, hybrid?
-  - I'm told learning different programming paradigms is "one of the most important concepts in this book".
-- How will you interact with it?
-  - Compiled, interpreted? Through a virtual machine?
-- What are the decision constructs and core data structures?
-  - `if` and `while`, pattern matching, unification. What role do collections play? Wtf are collections?
-- What are the core features that make the language unique?
-  - Advanced concurrent features? High-level constructs like macros and message interpretation.
+### The Five Core Questions
+
+1. What is the typing model?
+
+- Strong, weak, static, dynamic?
+- I'm told the typing model with "shape the way you attack a problem and control the way the language works.
+
+2. What is the programming model?
+
+- Object-oriented, functional, procedural, hybrid?
+- I'm told learning different programming paradigms is "one of the most important concepts in this book".
+
+3. How will you interact with it?
+
+- Compiled, interpreted? Through a virtual machine?
+
+4. What are the decision constructs and core data structures?
+
+- `if` and `while`, pattern matching, unification. What role do collections play? Wtf are collections?
+
+5. What are the core features that make the language unique?
+
+- Advanced concurrent features? High-level constructs like macros and message interpretation.
 
 Much further along in the intro, Bruce hands us a warning and some guidance all wrapped up into one like a good teacher. I'll quote it here in full because I think it's worth coming back to.
 
