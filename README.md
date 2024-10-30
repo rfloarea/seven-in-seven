@@ -52,3 +52,14 @@ Beyond that, his final motivational stance is this: have fun. Which I find both 
 I'm working my way through Ruby. Love the language so far. I'm just starting to decode how this book works. I want to make sure that I'm always taking the time to consider _why_ Bruce is showing me certain aspects of the language. Because more than anything, my learning goal for this book is not to learn the languages (although getting an intro to several languages is motivating), it's to learn how to learn programming languages. Put another way, my task isn't to learn seven languages. My goal is to learn how I learn programming languaegs best, to develop my personal method for learning programming languages.
 
 I expect that this is a long term goal. I expect that this book is merely a spark on that journey. But it feels important to me.
+
+2024-10-29
+Pausing Ruby and moving on to Io because ADHD. I need something new.
+
+Also, I'm very interested in learning about Io because Bruce says that it helped him learn JavaScript better. And since JS is the only language that anyone actually needs to know, it seems prudent to move on to this chapter. (heavy sarcasm)
+
+I feel that I want to make a note to myself about my absence from this book/course/study thing.
+
+I took a lot of time to explore what I'm really looking for from the Five Core Questions. I needed to have a better idea of what type systems actually are before I can benefit from understanding a language's type model. I also explored programming models: OOP, functional, etc. I feel that I have a better theoretical grasp and hope that that helps me understand these languages. 3, 4, 5 aren't as much of a mystery to me and they seem to be things that will be revealed as I progress from language to language. I'm not too worries about them.
+
+I was also battling some personal demons. (Still am?) So that tends to take up quite a bit of attention/energy. Learning how to learn programming languages is not the most urgent thing in my life.
