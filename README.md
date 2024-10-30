@@ -63,3 +63,11 @@ I feel that I want to make a note to myself about my absence from this book/cour
 I took a lot of time to explore what I'm really looking for from the Five Core Questions. I needed to have a better idea of what type systems actually are before I can benefit from understanding a language's type model. I also explored programming models: OOP, functional, etc. I feel that I have a better theoretical grasp and hope that that helps me understand these languages. 3, 4, 5 aren't as much of a mystery to me and they seem to be things that will be revealed as I progress from language to language. I'm not too worries about them.
 
 I was also battling some personal demons. (Still am?) So that tends to take up quite a bit of attention/energy. Learning how to learn programming languages is not the most urgent thing in my life.
+
+Later that night...
+
+I'm having some trouble downloading Io. The Homebrew process seemed to stall while downloading the cmake dependency.
+
+Some bit later...
+
+Just found [Try It Online](https://tio.run/#)! Very cool! I'll just use this to run Io code as long as I can.
