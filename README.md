@@ -71,3 +71,7 @@ I'm having some trouble downloading Io. The Homebrew process seemed to stall whi
 Some bit later...
 
 Just found [Try It Online](https://tio.run/#)! Very cool! I'll just use this to run Io code as long as I can.
+
+2024-11-08
+
+Getting back into things with Io. This language feels like it can be super fun! I'm not capable enough to make use of its flexibility and power, but I'm keeping this thing in mind. Io feels like a language that rewards highly capable and creative programmers. I'm working to be both.
