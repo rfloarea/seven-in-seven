@@ -30,3 +30,4 @@
 1. Languages can be simple and powerful.
 2. I have a better mental model of classes vs prototypes.
 3. Using Io to build a DSL is fascinating. Having access to that much customization is a bit scary, but draws me in for sure.
+4. Learning programming languages has a lot to do with developing a working mental model of the language.

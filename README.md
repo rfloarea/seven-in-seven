@@ -49,11 +49,13 @@ Beyond that, his final motivational stance is this: have fun. Which I find both 
 ## How things are going
 
 2024-10-18
+
 I'm working my way through Ruby. Love the language so far. I'm just starting to decode how this book works. I want to make sure that I'm always taking the time to consider _why_ Bruce is showing me certain aspects of the language. Because more than anything, my learning goal for this book is not to learn the languages (although getting an intro to several languages is motivating), it's to learn how to learn programming languages. Put another way, my task isn't to learn seven languages. My goal is to learn how I learn programming languaegs best, to develop my personal method for learning programming languages.
 
 I expect that this is a long term goal. I expect that this book is merely a spark on that journey. But it feels important to me.
 
 2024-10-29
+
 Pausing Ruby and moving on to Io because ADHD. I need something new.
 
 Also, I'm very interested in learning about Io because Bruce says that it helped him learn JavaScript better. And since JS is the only language that anyone actually needs to know, it seems prudent to move on to this chapter. (heavy sarcasm)
@@ -75,3 +77,7 @@ Just found [Try It Online](https://tio.run/#)! Very cool! I'll just use this to 
 2024-11-08
 
 Getting back into things with Io. This language feels like it can be super fun! I'm not capable enough to make use of its flexibility and power, but I'm keeping this thing in mind. Io feels like a language that rewards highly capable and creative programmers. I'm working to be both.
+
+2024-11-09
+
+I'm deciding to wrap up Io and move on. I've spent too much time on these first two languages. I'm deciding that it's better for me to go through all the languages and get maybe 15%, than to sit with one long enough to get 60%. Seems like a better use of my time to go breadth-first on this.
